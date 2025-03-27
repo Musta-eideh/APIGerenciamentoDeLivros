@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Musta-eideh/APIGerenciamentoDeLivros/issues"
   },
-  "homepage": "https://github.com/Musta-eideh/APIGerenciamentoDeLivros#readme"
+  "homepage": "https://github.com/Musta-eideh/APIGerenciamentoDeLivros#readme",
+  "dependencies": {
+    "apigerenciamentodelivros": "file:"
+  }
 }
